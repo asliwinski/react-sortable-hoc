@@ -56,8 +56,8 @@
     "react-dom": "^0.14.0 || ^15.0.0 || ^16.0.0"
   },
   "devDependencies": {
-    "@kadira/storybook": "^1.36.0",
-    "@kadira/storybook-deployer": "^1.0.0",
+    "@kadira/storybook": "^1.41.0",
+    "@kadira/storybook-deployer": "^1.2.0",
     "autoprefixer": "^6.3.6",
     "babel-cli": "^6.9.0",
     "babel-core": "^6.3.15",
@@ -103,10 +103,10 @@
     "react-virtualized": "^9.2.2",
     "redux": "^3.5.2",
     "rimraf": "^2.5.2",
-    "sass-loader": "^3.2.0",
+    "sass-loader": "^3.2.3",
     "stack-source-map": "^1.0.4",
     "style-loader": "^0.13.1",
-    "webpack": "^1.9.11",
+    "webpack": "^1.15.0",
     "webpack-dashboard": "^0.2.1",
     "webpack-dev-middleware": "^1.2.0",
     "webpack-hot-middleware": "^2.9.1",
